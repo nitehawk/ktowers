@@ -9,5 +9,5 @@ libSDL (1.2.14 or newer) www.libsdl.org
 Compiling:
 ----------
 From the project directory:
-cmake
+cmake .
 make
