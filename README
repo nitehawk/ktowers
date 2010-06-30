@@ -1,0 +1,10 @@
+KTowers
+Copyright (c) 2010 Matthew Schlegel
+All rights reserved
+See LICENSE file for licensing information
+
+KTowers
+-------
+A collection of tower defense style games
+
+Most tower defense games are written as flash programs and tend to run into performance problems quickly as the game progresses.   Native code should not suffer from the same performance problems.
