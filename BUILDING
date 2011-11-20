@@ -3,11 +3,8 @@ How to compile KTowers
 
 Requirements:
 -------------
-cmake (2.6 or newer)   www.cmake.org
-libSDL (1.2.14 or newer) www.libsdl.org
+Qt (4.7.4) (may work with other versions, untested
 
 Compiling:
 ----------
-From the project directory:
-cmake .
-make
+qmake ktowers.pro
