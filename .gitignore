@@ -3,3 +3,4 @@ ktowers
 *.o
 moc_*
 ui_*
+*.pro.user
